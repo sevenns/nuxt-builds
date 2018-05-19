@@ -4,14 +4,14 @@
 
 ### - Availables
 
-Soon
+- __Firebase__
+  - [Client][nuxt-firebase-client]
 
 ### - In dev
 
 - __Firebase__
-- - [Admin][nuxt-firebase-admin] _(~95%)_
-- - [Client][nuxt-firebase-client]
-- - Universal _(~70%)_
+  - [Admin][nuxt-firebase-admin] _(~95%)_
+  - Universal _(~70%)_
 
 
 ### - TODO
