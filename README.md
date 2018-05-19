@@ -9,8 +9,8 @@ Soon
 ### - In dev
 
 - __Firebase__
-- - [Admin][firebase-admin] _(~95%)_
-- - Client _(~70%)_
+- - [Admin][nuxt-firebase-admin] _(~95%)_
+- - [Client][nuxt-firebase-client]
 - - Universal _(~70%)_
 
 
@@ -23,4 +23,5 @@ Soon
 
 
 
-[firebase-admin]: https://github.com/sevenns/nuxt-firebase-admin
+[nuxt-firebase-admin]: https://github.com/sevenns/nuxt-firebase-admin
+[nuxt-firebase-client]: https://github.com/sevenns/nuxt-firebase-client
