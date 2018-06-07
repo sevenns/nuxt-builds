@@ -5,7 +5,7 @@
 ### - Availables
 
 - __MongoDB__
-  - [Client][nuxt-mongo-client]
+  - [Client][nuxt-mongo-client] ([DEMO][nuxt-mongo-client-demo])
 - __Firebase__
   - [Client][nuxt-firebase-client]
 
@@ -30,3 +30,4 @@
 [nuxt-firebase-admin]: https://github.com/sevenns/nuxt-firebase-admin
 [nuxt-firebase-client]: https://github.com/sevenns/nuxt-firebase-client
 [nuxt-mongo-client]: https://github.com/sevenns/nuxt-mongo-client
+[nuxt-mongo-client-demo]: http://nmc.sevenns.pw
